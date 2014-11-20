@@ -1,0 +1,1 @@
+Abrir el archivo githubGist.html, nos salen las distintas opciones a realizar.
